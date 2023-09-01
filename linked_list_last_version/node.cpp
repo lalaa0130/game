@@ -1,7 +1,5 @@
 #include "node.h"
 
-
-
 int C_NODE::GetData()
 {
     return m_nData;
